@@ -1,0 +1,2 @@
+g++ -std=c++17 stdc++.h // For C++17
+g++ -std=c++14 stdc++.h // For C++14
